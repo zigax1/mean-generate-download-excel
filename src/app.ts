@@ -4,7 +4,7 @@ const https = require("https");
 
 const app: Application = express();
 
-// import routes
+// import route
 const excelRoute = require("./routes/excelFile");
 
 // Route
